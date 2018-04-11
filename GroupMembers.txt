@@ -1,5 +1,7 @@
-codehackjack = Jack
+codehackjack = Jack Walter
+fmursaline = Faoud Mursaline
 ParminderMalhi = Parminder Malhi
 stamatopoulos = Michael Stamatopoulos
-RZN EDIL = Arzen Edillo
+skrillaskrilla = Arzen Edillo
 sudeepKhanal = Sudeep Khanal
+
